@@ -51,7 +51,7 @@ public class SparseArray {
 		}
 		System.out.println(sparse.length);
 		
-		
+		  
 		//Êä³öÏ¡ÊèÊı×é
 		for (int i = 0; i < sparse.length; i++) {
 			for (int j = 0; j < 3; j++) {
